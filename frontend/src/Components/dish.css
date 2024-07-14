@@ -1,0 +1,13 @@
+.imgDish{
+    height: 100px;
+    width: 100px;
+}
+.dish{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    gap: 20px;
+    align-items: center;
+    padding: 50px;
+    justify-content: space-between;
+}
